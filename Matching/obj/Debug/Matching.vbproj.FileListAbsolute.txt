@@ -1,0 +1,12 @@
+C:\Users\Bug\source\repos\Matching\Matching\obj\Debug\Matching.vbprojAssemblyReference.cache
+C:\Users\Bug\source\repos\Matching\Matching\obj\Debug\Matching.Form1.resources
+C:\Users\Bug\source\repos\Matching\Matching\obj\Debug\Matching.Resources.resources
+C:\Users\Bug\source\repos\Matching\Matching\obj\Debug\Matching.vbproj.GenerateResource.cache
+C:\Users\Bug\source\repos\Matching\Matching\obj\Debug\Matching.vbproj.CoreCompileInputs.cache
+C:\Users\Bug\source\repos\Matching\Matching\bin\Debug\Matching.exe.config
+C:\Users\Bug\source\repos\Matching\Matching\bin\Debug\Matching.exe
+C:\Users\Bug\source\repos\Matching\Matching\bin\Debug\Matching.pdb
+C:\Users\Bug\source\repos\Matching\Matching\bin\Debug\Matching.xml
+C:\Users\Bug\source\repos\Matching\Matching\obj\Debug\Matching.exe
+C:\Users\Bug\source\repos\Matching\Matching\obj\Debug\Matching.xml
+C:\Users\Bug\source\repos\Matching\Matching\obj\Debug\Matching.pdb
